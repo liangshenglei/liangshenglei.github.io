@@ -4,36 +4,9 @@
   
     
     <entry>
-      <title>学生自习室管理系统文档说明</title>
-      <link href="/2023/03/10/%E5%AD%A6%E7%94%9F%E8%87%AA%E4%B9%A0%E5%AE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/"/>
-      <url>/2023/03/10/%E5%AD%A6%E7%94%9F%E8%87%AA%E4%B9%A0%E5%AE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 项目文档 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 项目文档 </tag>
-            
-            <tag> 自习室 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>泰安文化宣传系统文档说明</title>
-      <link href="/2023/03/10/%E6%B3%B0%E5%AE%89%E6%96%87%E5%8C%96%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/"/>
-      <url>/2023/03/10/%E6%B3%B0%E5%AE%89%E6%96%87%E5%8C%96%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/</url>
+      <link href="/2023/03/12/%E6%B3%B0%E5%AE%89%E6%96%87%E5%8C%96%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/"/>
+      <url>/2023/03/12/%E6%B3%B0%E5%AE%89%E6%96%87%E5%8C%96%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -59,8 +32,8 @@
     
     <entry>
       <title>试剂管理系统文档说明</title>
-      <link href="/2023/03/10/%E8%AF%95%E5%89%82%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/"/>
-      <url>/2023/03/10/%E8%AF%95%E5%89%82%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/</url>
+      <link href="/2023/03/11/%E8%AF%95%E5%89%82%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/"/>
+      <url>/2023/03/11/%E8%AF%95%E5%89%82%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,6 +50,33 @@
             <tag> 项目文档 </tag>
             
             <tag> 试剂 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学生自习室管理系统文档说明</title>
+      <link href="/2023/03/10/%E5%AD%A6%E7%94%9F%E8%87%AA%E4%B9%A0%E5%AE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/"/>
+      <url>/2023/03/10/%E5%AD%A6%E7%94%9F%E8%87%AA%E4%B9%A0%E5%AE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%96%87%E6%A1%A3%E8%AF%B4%E6%98%8E/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-前言"><a href="#1-前言" class="headerlink" title="1. 前言"></a>1. 前言</h1><div class="note primary modern"><p>写本博客的目的是记录一下大二下学期的JavaEE项目的课程设计，本项目是自从进入实验室学习后端技术(从JAVA到SpringBoot框架)以来独立开发的第一个项目，采用前后端分离的模式与实验室的李宣宣同学(前端天花板)一起设计开发，期间也遇到了很多技术难点大家一起商量解决方案，尤其是自习室预约功能的实现真的是费劲脑汁，但最终还是将项目跑了起来完成全部功能需求，很怀念当初的时光！！</p></div><h1 id="2-绪论"><a href="#2-绪论" class="headerlink" title="2. 绪论"></a>2. 绪论</h1><h2 id="2-1-项目背景"><a href="#2-1-项目背景" class="headerlink" title="2.1 项目背景"></a>2.1 项目背景</h2><div class="note default no-icon flat"><p>随着高校的扩招，自习室的座位资源短缺问题日益严重，占座现象时有发生。针对这一现象，开发了自习室管理系统，能够有效地解决占座和座位匮乏现象。<br>利用现代化的技术手段对这些自习室进行管理，让有需求的同学可以通过预约自习室座位的方式，合理的安排自习室的使用情况，使其充分的使用自习室。这既方便了有需要的同学安排时间自习，也解决了一窝蜂涌入自习室甚至占位置的现象。该自习室管理系统有很高的实用性，该系统主要包括学生预约座位功能、自习楼管理员进行管理功能、以及学校管理者进行管理功能。</p></div><h2 id="2-2-编写目的"><a href="#2-2-编写目的" class="headerlink" title="2.2 编写目的"></a>2.2 编写目的</h2><div class="note default no-icon flat"><p>首先，本次课程设计的设计者为2019级计算机与信息学院软件工程专业的学生，旨在加强对本专业的认识、锻炼学生实际开发项目的能力，为以后的学习以及实习奠定基础。<br>其次，通过本次自习室管理系统课程设计，可以充分调动学生学习的积极性和能动性，锻炼学生自己解决实际问题的能力，使学生认识到本身存在的问题，为以后的学习奠定基础；同时也让学生认识到开发和设计Web应用程序的复杂性，充分了解Web应用程序设计和开发过程，提高对所学知识的正向迁移能力。<br>最后，通过自身所学的数据库相关知识和已掌握的知识的迁移和应用，让学生更加了解数据库的操作，通过结合前端和后端进行的可视化信息系统操作，巩固学生所学的知识。</p></div><h2 id="2-3-软件定义"><a href="#2-3-软件定义" class="headerlink" title="2.3 软件定义"></a>2.3 软件定义</h2><div class="note default no-icon flat"><p>自习室管理系统是一个前后端分离的系统，分为三个角色：学生、自习楼管理员、学校管理者。学生用户进行登录并查看相应的信息，对自己所在的自习室的座位进行预约上座；自习楼管理员能够对自习楼以及学生信息进行相应的管理；学校管理者对用户进行管理。自习室管理系统还增加了统计报表功能，并且用户可以将信息导出为excel文件。</p></div><h2 id="2-4-开发环境"><a href="#2-4-开发环境" class="headerlink" title="2.4 开发环境"></a>2.4 开发环境</h2><div class="note default no-icon flat"><p>本系统开发环境及工具为IDEA2019、Tomcat8.5.392、JDK1.8.0、Oracle 12c、Visual Studio Code、vue2.0，框架为SpringBoot+MyBatisPlus+Vue+SpringSecurity，编程语言有Java、vue.js、css、Echarts.js等。</p></div><h1 id="3-自习室管理系统需求分析"><a href="#3-自习室管理系统需求分析" class="headerlink" title="3. 自习室管理系统需求分析"></a>3. 自习室管理系统需求分析</h1><h2 id="3-1-技术可行性分析"><a href="#3-1-技术可行性分析" class="headerlink" title="3.1 技术可行性分析"></a>3.1 技术可行性分析</h2><div class="note default no-icon flat"><p>技术可行性即在现有的技术下，评估是否满足开发自习室管理系统的条件。该系统是基于MVVM（Model-View-ViewModel）设计模式、使用当下最受欢迎的Java语言为主要编程语言，后端主要以SpringBoot为主体框架集成MyBatisPlus等技术框架，前端以Element ui、Ant-design、Vue框架进行界面开发，数据库选择Oracle。该系统开发人员可以熟练使用这些技术框架，因此该系统具有技术可行性，并且因为是前后端分离式开发，后期的可维护性强。</p></div><h2 id="3-2-用户分析"><a href="#3-2-用户分析" class="headerlink" title="3.2 用户分析"></a>3.2 用户分析</h2><div class="note default no-icon flat"><p>随着各所高校的扩招，自习室出现了座位资源短缺以及学生随意占座现象，因此建立了自习室管理系统。首先确定系统的参与者，然后描述其相应的功能。<br>自习室管理系统的角色包括：</p><ul><li>学校管理者：主要负责对本系统用户模块进行维护和管理；</li><li>自习楼管理员：主要负责对各个自习楼以及所有学生进行管理。</li><li>学生：使用本系统进行预约座位、上报报修表和查询晚归信息等操作</li></ul></div><h1 id="4-功能模块设计"><a href="#4-功能模块设计" class="headerlink" title="4. 功能模块设计"></a>4. 功能模块设计</h1><p>自习室管理系统主要分为学校管理者管理、自习楼管理员管理和学生使用三部分。系统功能图如图所示。<br><img src="/pic/classroom/function.jpg" alt="功能图"></p><h1 id="5-自习室管理系统实现"><a href="#5-自习室管理系统实现" class="headerlink" title="5. 自习室管理系统实现"></a>5. 自习室管理系统实现</h1><div class="note default no-icon flat"><p>通过对自习室管理系统的需求分析以及概要设计和详细设计，还有数据库设计，从而一步步的对该系统进行开发和实现。</p></div><h2 id="5-1-用户登录功能实现"><a href="#5-1-用户登录功能实现" class="headerlink" title="5.1 用户登录功能实现"></a>5.1 用户登录功能实现</h2><div class="note default no-icon flat"><p>用户打开界面之后，输入相应的账号、密码和验证码进行登录。不同角色的用户登录进入的是不同的页面。用户登录界面如图所示。</p></div><p><img src="/pic/classroom/login.jpg" alt="login"><br><div class="note default no-icon flat"><p>对于不同角色进入不同页面，后端传给前端一个身份字段，前端通过axios获取到后，用if语句进行判别，从而不同的身份进入不同的页面。</p></div></p><h2 id="5-2-用户信息管理功能实现"><a href="#5-2-用户信息管理功能实现" class="headerlink" title="5.2 用户信息管理功能实现"></a>5.2 用户信息管理功能实现</h2><div class="note default no-icon flat"><p>学校管理者可以对登录的用户、自习楼管理员、学生进行管理。<br>用户管理是对可以登录的用户进行管理，主要是管理他们的密码。用户信息管理界面如图所示</p></div><p><img src="/pic/classroom/user.jpg" alt="user"><br><div class="note default no-icon flat"><p>自习楼管理员管理是对学校内的楼管员进行管理，主要是管理他们的姓名、年龄、性别、电话和所分配的楼号。自习楼管理员信息管理界面如图所示。</p></div><br><img src="/pic/classroom/user_floor.jpg" alt="user_floor"><br><div class="note default no-icon flat"><p>学生管理是对学校内的所有学生进行管理，主要是管理他们的、姓名、年龄、性别和入住时间。学生信息管理界面如图所示。</p></div><br><img src="/pic/classroom/student.jpg" alt="student"><br><div class="note default no-icon flat"><p>晚归学生管理是对学校内的晚归的学生进行管理，主要是管理他们的姓名、晚归原因和晚归时间。晚归学生信息管理界面如图所示。</p></div><br><img src="/pic/classroom/late.jpg" alt="late"><br><div class="note default no-icon flat"><p>学校管理者可以对这些用户的信息进行增删改查，增删改查的代码原理差不多，比如添加操作，前端弹出弹框，输入信息，待信息验证成功后，通过axios向后端发送请求，从而实现添加功能。后端由Controller层接收前端传过来的Json数据，并将其转换成对应的实体类，并调用Service中的添加方法，再由Service层调用Mapper层中的添加方法将数据存储在数据库中。</p></div></p><h2 id="5-3-自习楼管理功能实现"><a href="#5-3-自习楼管理功能实现" class="headerlink" title="5.3 自习楼管理功能实现"></a>5.3 自习楼管理功能实现</h2><div class="note default no-icon flat"><p>自习楼信息管理是对学校内的自习楼进行管理，主要是管理他们的自习楼名、自习室数目、开门时间和关门时间。自习楼信息管理界面如图所示。</p></div><p><img src="/pic/classroom/floor.jpg" alt="floor"><br><div class="note default no-icon flat"><p>点击操作里的进入自习室按钮，便可以进入相应自习楼的自习室。自习室信息管理是对相应自习楼的自习室进行管理，主要是管理他们的自习室号、座位数和空座数。自习室信息管理界面如图所示。</p></div><br><img src="/pic/classroom/room.jpg" alt="room"></p><h2 id="5-4-自习室座位预约功能实现"><a href="#5-4-自习室座位预约功能实现" class="headerlink" title="5.4 自习室座位预约功能实现"></a>5.4 自习室座位预约功能实现</h2><div class="note default no-icon flat"><p>学生登陆之后，便可查询自己所在的自习室，并进行座位预约。预约成功界面如图所示。</p></div><p><img src="/pic/classroom/reserve.jpg" alt="reserve"><br><div class="note default no-icon flat"><p>但是预约有时间限制，到了一定的时间系统便会自动取消预约。取消预约部分用的是vue的定时器，使用setInterval函数让这部分代码每一秒执行一次，每执行一次，时间就减一，直到小于等于零时，倒计时时间变为零，同时清除定时器。<br>并且，某位学生预约成功之后，其他学生便不可预约已预约的座位。不可预约座位界面如图所示。</p></div><br><img src="/pic/classroom/reserve1.jpg" alt="reserve1"><br><div class="note default no-icon flat"><p>一旦学生预约成功后，再次点击，可以选择取消预约或者上座。如果选择取消预约，则该座会回归原始状态；如果选择上座，该学生便进入学习状态，学习时间也会立即计时。上座界面如图所示。</p></div><br><img src="/pic/classroom/reserve2.jpg" alt="reserve2"><br><div class="note default no-icon flat"><p>上座和预约一样，某位同学上座之后，其他同学便不可选择已上座的座位。不可选择界面如图所示。</p></div><br><img src="/pic/classroom/reserve3.jpg" alt="reserve3"><br><div class="note default no-icon flat"><p>学生一旦选择退座，系统便会返回一个上座时间和退座时间，并且会计算出学生学习的时长。学生学习情况如图所示。</p></div><br><img src="/pic/classroom/reserve_time.jpg" alt="reserve_time"><br><div class="note default no-icon flat"><p>当学生进行上座操作时，会向数据库保存一个开始学习时间，而当进行离开操作时，会向数据库保存一个结束学习时间，后端经过判断，明确该操作为离开时会将结束学习时间减开始学习时间得到本次学习的时长，并将其保存到数据库。</p></div></p><h1 id="6-总结"><a href="#6-总结" class="headerlink" title="6. 总结"></a>6. 总结</h1><div class="note default no-icon flat"><p>该课程设计做的是基于SpringBoot架构的自习室管理系统，主要是对自习室的使用进行管理。本系统采用的技术主要有MyBatisPlus、Redis、SpringSecurity、Vue、Echarts等，利用IDEA和VisualStudioCode进行开发。<br>本次课程设计在设计阶段碰到了不少困难，但随着项目的不断推进，一次次的去解决问题，更加的巩固了之前学过的知识并提高了编写代码的能力。对于本次课程设计的主要工作做一个总结，主要有以下几个方面：</p><ul><li>对本次课程设计的课题进行层层分析研究，简要概述项目研究的背景和意义，阐述了该项目的软件定义和开发环境，并对当前自习室管理的漏洞进行分析，最终提出自习室管理系统的设计与实现。</li><li>该课程设计从设计阶段经历需求分析、概要设计，包括系统整体架构的分析、功能模块的设计，再到详细设计，系统技术架构分析，最后经过数据库的概念和逻辑设计，最终实现系统的所有功能。</li><li>进行系统的开发实现和功能测试。在开发过程中虽然遇到很多困难，但是只要心中有信念，便会成功。后端使用的是当下流行的<br>MyBatisPlus框架，前端使用的是vue框架，前后端结合部分使用的是axios.js，数据库使用的是oracle数据库，开放性强，性能较高。在最后的测试阶段，整个系统的所有功能已达到预期效果。<br>除此之外，该系统在设计开发过程中也存在一些不足，在信息统计方面，没有做到具体的访客数据等。</li></ul></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目文档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 项目文档 </tag>
+            
+            <tag> 自习室 </tag>
             
         </tags>
       
